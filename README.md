@@ -2,7 +2,7 @@
 
 **Demo de portafolio:** agente de soporte conversacional con Gemini function calling, herramientas backend simuladas, registro de auditoría y transferencia a una persona.
 
-> Esta es una demostración educativa independiente. No está afiliada a Rappi, no se conecta a sus sistemas y no ejecuta pagos, devoluciones ni compensaciones reales. Todos los pedidos y políticas son ficticios.
+> Esta es una demostración educativa independiente. No está afiliada a ninguna compañia, no se conecta a sus sistemas y no ejecuta pagos, devoluciones ni compensaciones reales. Todos los pedidos y políticas son ficticios.
 
 ## Qué demuestra
 
